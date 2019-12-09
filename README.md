@@ -4,12 +4,12 @@ Model Construction
 Data process
 ---------------------
 
-Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.
+> Get the all the data from sensor and make a dataframe for the model
+> Get the low pass signal as the data input for our model
 
-The quick brown fox jumped over the lazy
-dog's back.
+Transfer t
+---------------------
+
 ### Header 3
 
 > This is a blockquote.

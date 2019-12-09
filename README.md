@@ -4,8 +4,8 @@ Model Construction
 Data process
 ---------------------
 
-> Get the all the data from sensor and make a dataframe for the model
-> Get the low pass signal as the data input for our model
+### Get the all the data from sensor and make a dataframe for the model
+### Get the low pass signal as the data input for our model
 
 Transfer t
 ---------------------

@@ -1,6 +1,11 @@
 # HW-3
 Model Construction
 ====================
+
+> Put up with a conceptual model
+
+> Simplify the model
+
 Data process
 ---------------------
 
